@@ -68,8 +68,6 @@ function solve(input: string): number {
 		})
 	})
 
-	console.log(tree)
-
 	let bag = 'shiny gold'
 
 	total = 0
